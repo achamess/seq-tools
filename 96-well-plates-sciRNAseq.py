@@ -1,4 +1,6 @@
-
+'''
+Given two primer sets (P5 and P7), makes combination of primers.
+'''
 
 # Make a series by column (A1,B1,C1...)
 # Add whatever suffix you want to
